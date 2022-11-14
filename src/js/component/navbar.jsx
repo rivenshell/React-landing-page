@@ -17,7 +17,7 @@ function navbar() {
                 <a className="nav-link text-white" href="#">Link</a>
             </li>
             <li className="nav-item">
-                <a className="nav-link text-white" href="#">Disabled</a>
+                <a className="nav-link text-white" href="#">Contact</a>
             </li>
         </ul>
     </div>
