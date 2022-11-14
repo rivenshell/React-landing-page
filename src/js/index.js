@@ -10,16 +10,4 @@ import Home from "./component/home.jsx";
 // import navbar from "./component/navbar";
 // import footer from "./component/footer";
 
-function index() {
-  return (
-    <div>index
-        <p>Yoo</p>
-    </div>
-
-  )
-}
-
-export default index
-
-//render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));
